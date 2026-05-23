@@ -5,6 +5,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 📱 Android
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/120px-Android_robot.svg.png" width="40" height="40" alt="Android">
 
 | Core         | Applications |
 |--------------|--------------|
@@ -15,6 +16,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 🪟 Windows
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/120px-Windows_logo_-_2021.svg.png" width="40" height="40" alt="Windows">
 
 | Core         | Applications |
 |--------------|--------------|
@@ -25,6 +27,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 📱 iOS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="iOS">
 
 | Core         | Applications |
 |--------------|--------------|
@@ -35,6 +38,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 💻 macOS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="macOS">
 
 | Core         | Applications |
 |--------------|--------------|
@@ -45,6 +49,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 🐧 Linux
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" width="40" height="40" alt="Linux">
 
 | Core         | Applications |
 |--------------|--------------|
@@ -54,7 +59,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 
 ---
 
-## ⭐ Contributing
+## Contributing
 Feel free to submit a Pull Request to add new clients or update links!
 
 ## ⚠️ Disclaimer
