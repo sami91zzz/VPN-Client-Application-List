@@ -1,132 +1,122 @@
-# 🚀 VPN Client Application List
+# 🔐 VPN Client Application List (Until 2025/Aug)
 
-A curated collection of the best VPN/proxy client applications for **Mihomo (Clash Meta)**, **X-Ray (V2Ray)**, and **Sing-Box** cores across multiple platforms.
+A curated list of the best VPN/proxy client applications for different operating systems, categorized by core engine (**Mihomo**, **X-Ray**, and **Sing-box**).
 
-> Supports Clash, V2Ray, VMess, VLESS, Trojan, Shadowsocks, Hysteria2, TUIC, and more.
-
----
-
-## 📱 Android
-
-### Mihomo (Clash Meta)
-- **[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)** — Official & most powerful
-- **[FlClash](https://github.com/chen08209/FlClash)** — Beautiful UI & stable
-- **[Clash Mi](https://github.com/Drakeet/ClashMi)** — Lightweight & clean
-
-### X-Ray
-- **[Happ](https://play.google.com/store/apps/details?id=com.happ.vpn)** — Modern & user-friendly
-- **[V2rayNG](https://github.com/2dust/v2rayNG)** — Classic & highly reliable
-- **[Exclave](https://github.com/Exclave/Exclave)** — New generation client
-- **[V2Box](https://play.google.com/store/apps/details?id=com.v2box)** — Simple & clean
-- **[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)** *(iOS name, available on Android via some stores)*
-- **[SimpleXRay](https://github.com/SimpleXRay/SimpleXRay)** 
-- **[ZedSecure VPN](https://github.com/zedsecure/zedsecure-vpn)**
-
-### Sing-Box
-- **[sing-box](https://play.google.com/store/apps/details?id=io.nekohasekai.singbox)** — Official client
-- **[Husi](https://github.com/huashi999/Husi)** — Popular & feature-rich
-- **[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)** — Excellent UI/UX
-- **[Karing](https://github.com/KaringX/karing)** — Multi-platform support
-- **[Hiddify](https://play.google.com/store/apps/details?id=com.hiddify.mobiles)** — Very polished
+> Last updated: August 2025
 
 ---
 
-## 🪟 Windows
+## 📱 Operating Systems
 
-### Mihomo (Clash Meta)
-- **[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)** — Most popular & beautiful
-- **[FlClash](https://github.com/chen08209/FlClash)** — Cross-platform excellence
-- **[mihomo-party](https://github.com/mihomo-party-org/mihomo-party)** — Official party client
+### ◉ Android <img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" width="32" height="32" alt="Android">
 
-### X-Ray
-- **[V2rayN](https://github.com/2dust/v2rayN)** — The gold standard for Windows
-- **[Happ](https://github.com/happ-project/happ)**
+#### ● Mihomo Core
+- [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) — GitHub
+- [FlClash](https://github.com/Fclash/Fclash) — GitHub
+- [Clash Mi](https://github.com/clash-micro) — GitHub
 
-### Sing-Box
-- **[Karing](https://github.com/KaringX/karing)** — Clean & modern
-- **[NekoRay от Mahdi](https://github.com/MahdiNazari/NekoRay)** — Feature packed
-- **[Hiddify](https://github.com/hiddify/hiddify-next)** — Next-gen client
+#### ● X-Ray Core
+- [Happ](https://play.google.com/store/apps/details?id=com.happ) — [Google Play](https://play.google.com) | [GitHub](https://github.com)
+- [V2rayNG](https://github.com/2dust/v2rayNG) — GitHub
+- [Exclave](https://github.com/Exclave) — GitHub
+- [V2Box](https://play.google.com/store/apps/details?id=com.v2box) — Google Play
+- [Shadowrocket](https://play.google.com) — Google Play
+- [SimpleXRay](https://github.com/SimpleXRay) — GitHub
+- [ZedSecure VPN](https://github.com/ZedSecure) — GitHub
 
----
-
-## 📱 iOS
-
-### Mihomo (Clash Meta)
-- **[Clash Mi](https://apps.apple.com/app/clash-mi/id...)** *(Search on App Store)*
-
-### X-Ray
-- **[Happ](https://apps.apple.com/app/happ/id...)** 
-- **[Streisand](https://apps.apple.com/app/streisand/id...)**
-- **[V2rayTun](https://apps.apple.com/app/v2raytun/id...)**
-- **[V2Box](https://apps.apple.com/app/v2box/id...)**
-- **[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)** — Most popular
-- **[Stash](https://apps.apple.com/app/stash/id1598617850)**
-- **[Quantumult X](https://apps.apple.com/app/quantumult-x/id1441125348)**
-- **[Surge 5](https://apps.apple.com/app/surge-5/id1442627032)** — Premium choice
-
-### Sing-Box
-- **[sing-box](https://apps.apple.com/app/sing-box/id...)**
-- **[Hiddify](https://apps.apple.com/app/hiddify/id...)**
-- **[Karing](https://apps.apple.com/app/karing/id...)**
+#### ● Sing-box Core
+- [sing-box](https://play.google.com/store/apps/details?id=io.singbox) — [Google Play](https://play.google.com) | [GitHub](https://github.com/SagerNet/sing-box)
+- [Husi](https://github.com/husi-app) — GitHub
+- [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) — GitHub
+- [Karing](https://github.com/KaringApp) — GitHub
+- [Hiddify](https://play.google.com/store/apps/details?id=app.hiddify.com) — [Google Play](https://play.google.com) | [GitHub](https://github.com/hiddify)
 
 ---
 
-## 💻 macOS
+### ◉ Windows <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" width="32" height="32" alt="Windows">
 
-### Mihomo (Clash Meta)
-- **[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)**
-- **[FlClash](https://github.com/chen08209/FlClash)**
-- **[mihomo-party](https://github.com/mihomo-party-org/mihomo-party)**
+#### ● Mihomo Core
+- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) — GitHub
+- [FlClash](https://github.com/Fclash/Fclash) — GitHub
+- [mihomo-party](https://github.com/mihomo-party-org/mihomo-party) — GitHub
 
-### X-Ray
-- **[V2rayN](https://github.com/2dust/v2rayN)** *(via compatibility)*
-- **[Happ](https://apps.apple.com/app/happ/id...)**
-- **[Streisand](https://apps.apple.com/app/streisand/id...)**
-- **[V2rayTun](https://apps.apple.com/app/v2raytun/id...)**
-- **[V2Box](https://apps.apple.com/app/v2box/id...)**
-- **[Quantumult X](https://apps.apple.com/app/quantumult-x/id1441125348)**
+#### ● X-Ray Core
+- [V2rayN](https://github.com/2dust/v2rayN) — GitHub
+- [Happ](https://github.com) — GitHub
 
-### Sing-Box
-- **[sing-box](https://apps.apple.com/app/sing-box/id...)**
-- **[Karing](https://apps.apple.com/app/karing/id...)**
-- **[NekoRay от Mahdi](https://github.com/MahdiNazari/NekoRay)**
-- **[Hiddify](https://github.com/hiddify/hiddify-next)**
+#### ● Sing-box Core
+- [Karing](https://github.com/KaringApp/Karing) — GitHub
+- [NekoRay от Mahdi](https://github.com/MahdiNazemi/nekoray) — GitHub
+- [Hiddify](https://github.com/hiddify/hiddify-desktop) — GitHub
 
 ---
 
-## 🐧 Linux
+### ◉ iOS <img src="https://cdn-icons-png.flaticon.com/512/888/888841.png" width="32" height="32" alt="iOS">
 
-### Mihomo (Clash Meta)
-- **[FlClash](https://github.com/chen08209/FlClash)**
-- **[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)**
-- **[mihomo-party](https://github.com/mihomo-party-org/mihomo-party)**
+#### ● Mihomo Core
+- [Clash Mi](https://apps.apple.com) — App Store
 
-### X-Ray
-- **[V2rayN](https://github.com/2dust/v2rayN)** *(via Electron)*
+#### ● X-Ray Core
+- [Happ](https://apps.apple.com) — App Store
+- [Streisand](https://apps.apple.com) — App Store
+- [V2rayTun](https://apps.apple.com) — App Store
+- [V2Box](https://apps.apple.com) — App Store
+- [Shadowrocket](https://apps.apple.com) — App Store
+- [Stash](https://apps.apple.com) — App Store
+- [Quantumult X](https://apps.apple.com) — App Store
+- [Surge 5](https://apps.apple.com) — App Store
 
-### Sing-Box
-- **[NekoRay от Mahdi](https://github.com/MahdiNazari/NekoRay)**
-- **[NekoRay от Matsuri](https://github.com/MatsuriDayo/NekoRay)**
-- **[Hiddify](https://github.com/hiddify/hiddify-next)**
-
----
-
-## ⭐ Recommendations
-
-**Best Overall:**
-- **Android**: NekoBox / Hiddify
-- **Windows**: Clash Verge Rev + V2rayN
-- **iOS**: Shadowrocket / Quantumult X
-- **macOS**: Clash Verge + Quantumult X
-- **Linux**: FlClash / Hiddify Next
+#### ● Sing-box Core
+- [sing-box](https://apps.apple.com) — App Store
+- [Hiddify](https://apps.apple.com) — App Store
+- [Karing](https://apps.apple.com) — App Store
 
 ---
 
-## 📌 Notes
-- Always prefer **official GitHub releases** when possible.
-- Some applications require **TestFlight** or **enterprise certificates** on iOS.
-- Check each project's GitHub for latest updates and community support.
+### ◉ macOS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" width="32" height="32" alt="macOS">
+
+#### ● Mihomo Core
+- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) — GitHub
+- [FlClash](https://github.com/Fclash/Fclash) — GitHub
+- [mihomo-party](https://github.com/mihomo-party-org/mihomo-party) — GitHub
+
+#### ● X-Ray Core
+- [V2rayN](https://github.com/2dust/v2rayN) — GitHub
+- [Happ](https://apps.apple.com) — App Store
+- [Streisand](https://apps.apple.com) — App Store
+- [V2rayTun](https://apps.apple.com) — App Store
+- [V2Box](https://apps.apple.com) — App Store
+- [Quantumult X](https://apps.apple.com) — App Store
+
+#### ● Sing-box Core
+- [sing-box](https://apps.apple.com) — App Store
+- [Karing](https://apps.apple.com) — App Store
+- [NekoRay от Mahdi](https://github.com/MahdiNazemi/nekoray) — GitHub
+- [Hiddify](https://github.com/hiddify/hiddify-desktop) — GitHub
 
 ---
 
-**Contributions welcome!** Feel free to open a PR to add new clients or update links.
+### ◉ Linux <img src="https://cdn-icons-png.flaticon.com/512/888/888848.png" width="32" height="32" alt="Linux">
+
+#### ● Mihomo Core
+- [FlClash](https://github.com/Fclash/Fclash) — GitHub
+- [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) — GitHub
+- [mihomo-party](https://github.com/mihomo-party-org/mihomo-party) — GitHub
+
+#### ● X-Ray Core
+- [V2rayN](https://github.com/2dust/v2rayN) — GitHub
+
+#### ● Sing-box Core
+- [NekoRay от Mahdi](https://github.com/MahdiNazemi/nekoray) — GitHub
+- [NekoRay от Matsuri](https://github.com/MatsuriDayo/NekoRay) — GitHub
+- [Hiddify](https://github.com/hiddify/hiddify-desktop) — GitHub
+
+---
+
+## ⭐ Contributing
+
+Feel free to open a Pull Request to add new clients or update links.
+
+## ⚠️ Disclaimer
+
+This list is for informational purposes only. Always check the security and legitimacy of any VPN/proxy tool before use.
