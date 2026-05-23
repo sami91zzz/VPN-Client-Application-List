@@ -59,9 +59,6 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 
 ---
 
-## Contributing
-Feel free to submit a Pull Request to add new clients or update links!
-
 ## ⚠️ Disclaimer
 This list is for informational purposes only. Please ensure you comply with local laws and service terms when using proxy/VPN applications.
 
