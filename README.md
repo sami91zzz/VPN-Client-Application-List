@@ -16,7 +16,7 @@ A comprehensive curated list of VPN/proxy client applications based on **Mihomo 
 
 ## Android
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/120px-Android_robot.svg.png" width="80" height="80" alt="Android">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/120px-Android_robot.svg.png" width="40" height="40" alt="Android">
 
 | Core          | Applications |
 |---------------|--------------|
@@ -28,7 +28,7 @@ A comprehensive curated list of VPN/proxy client applications based on **Mihomo 
 
 ## Windows
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/120px-Windows_logo_-_2021.svg.png" width="80" height="80" alt="Windows">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/120px-Windows_logo_-_2021.svg.png" width="40" height="40" alt="Windows">
 
 | Core          | Applications |
 |---------------|--------------|
@@ -40,7 +40,7 @@ A comprehensive curated list of VPN/proxy client applications based on **Mihomo 
 
 ## iOS
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="70" height="80" alt="iOS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="iOS">
 
 | Core          | Applications |
 |---------------|--------------|
@@ -52,7 +52,7 @@ A comprehensive curated list of VPN/proxy client applications based on **Mihomo 
 
 ## macOS
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="70" height="80" alt="macOS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="macOS">
 
 | Core          | Applications |
 |---------------|--------------|
