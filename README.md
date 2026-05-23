@@ -64,7 +64,7 @@ A comprehensive curated list of VPN/proxy client applications based on **Mihomo 
 
 ## Linux
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" width="80" height="80" alt="Linux">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" width="40" height="40" alt="Linux">
 
 | Core          | Applications |
 |---------------|--------------|
