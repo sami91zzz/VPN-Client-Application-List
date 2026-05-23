@@ -5,19 +5,18 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 📱 Android
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/120px-Android_robot.svg.png" width="40" height="40" alt="Android">
 
 <table>
   <thead>
     <tr>
-      <th width="120">Core</th>
+      <th width="130">Core</th>
       <th>Applications</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Mihomo</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases">Clash Meta for Android</a><br><br>
         <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
         <a href="https://github.com/KaringX/clashmi/releases">Clash Mi</a>
@@ -25,7 +24,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
     </tr>
     <tr>
       <td><strong>X-Ray</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/Happ-proxy/happ-android/releases">Happ</a><br><br>
         <a href="https://github.com/2dust/v2rayNG/releases">V2rayNG</a><br><br>
         <a href="https://github.com/dyhkwong/Exclave/releases">Exclave</a><br><br>
@@ -37,7 +36,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
     </tr>
     <tr>
       <td><strong>Sing-box</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/SagerNet/sing-box/releases">sing-box</a><br><br>
         <a href="https://github.com/xchacha20-poly1305/husi/releases">Husi</a><br><br>
         <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid/releases">NekoBox</a><br><br>
@@ -51,19 +50,18 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 🪟 Windows
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/120px-Windows_logo_-_2021.svg.png" width="40" height="40" alt="Windows">
 
 <table>
   <thead>
     <tr>
-      <th width="120">Core</th>
+      <th width="130">Core</th>
       <th>Applications</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Mihomo</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases">Clash Verge</a><br><br>
         <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
         <a href="https://github.com/mihomo-party-org/mihomo-party/releases">mihomo-party</a>
@@ -71,14 +69,14 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
     </tr>
     <tr>
       <td><strong>X-Ray</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/2dust/v2rayN/releases">V2rayN</a><br><br>
         <a href="https://github.com/Happ-proxy">Happ</a>
       </td>
     </tr>
     <tr>
       <td><strong>Sing-box</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/KaringX/karing/releases">Karing</a><br><br>
         <a href="https://github.com/throneproj/Throne/releases">NekoRay</a><br><br>
         <a href="https://github.com/hiddify/hiddify-app/releases">Hiddify</a>
@@ -90,25 +88,24 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 📱 iOS
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="iOS">
 
 <table>
   <thead>
     <tr>
-      <th width="120">Core</th>
+      <th width="130">Core</th>
       <th>Applications</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Mihomo</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://apps.apple.com/us/app/clash-mi/id6744321968">Clash Mi</a>
       </td>
     </tr>
     <tr>
       <td><strong>X-Ray</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://apps.apple.com/kw/app/happ-proxy-utility/id6504287215">Happ</a><br><br>
         <a href="https://apps.apple.com/us/app/streisand/id6450534064">Streisand</a><br><br>
         <a href="https://apps.apple.com/us/app/v2raytun/id6476628951">V2rayTun</a><br><br>
@@ -121,7 +118,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
     </tr>
     <tr>
       <td><strong>Sing-box</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://apps.apple.com/us/app/sing-box-vt/id6673731168">sing-box</a><br><br>
         <a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532">Hiddify</a><br><br>
         <a href="https://apps.apple.com/us/app/karing/id6472431552">Karing</a>
@@ -133,19 +130,18 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 💻 macOS
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="iOS">
 
 <table>
   <thead>
     <tr>
-      <th width="120">Core</th>
+      <th width="130">Core</th>
       <th>Applications</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Mihomo</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases">Clash Verge</a><br><br>
         <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
         <a href="https://github.com/mihomo-party-org/mihomo-party/releases">mihomo-party</a>
@@ -153,7 +149,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
     </tr>
     <tr>
       <td><strong>X-Ray</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/2dust/v2rayN/releases">V2rayN</a><br><br>
         <a href="https://apps.apple.com/kw/app/happ-proxy-utility/id6504287215">Happ</a><br><br>
         <a href="https://apps.apple.com/us/app/streisand/id6450534064">Streisand</a><br><br>
@@ -164,7 +160,7 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
     </tr>
     <tr>
       <td><strong>Sing-box</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://apps.apple.com/us/app/sing-box-vt/id6673731168">sing-box</a><br><br>
         <a href="https://apps.apple.com/us/app/karing/id6472431552">Karing</a><br><br>
         <a href="https://github.com/throneproj/Throne/releases">NekoRay</a><br><br>
@@ -177,19 +173,18 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ---
 
 ## 🐧 Linux
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" width="40" height="40" alt="Linux">
 
 <table>
   <thead>
     <tr>
-      <th width="120">Core</th>
+      <th width="130">Core</th>
       <th>Applications</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Mihomo</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
         <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases">Clash Verge</a><br><br>
         <a href="https://github.com/mihomo-party-org/mihomo-party/releases">mihomo-party</a>
@@ -197,13 +192,13 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
     </tr>
     <tr>
       <td><strong>X-Ray</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/2dust/v2rayN/releases">V2rayN</a>
       </td>
     </tr>
     <tr>
       <td><strong>Sing-box</strong></td>
-      <td style="padding: 12px 0;">
+      <td style="padding: 18px 0 18px 0; line-height: 1.8;">
         <a href="https://github.com/throneproj/Throne/releases">NekoRay</a><br><br>
         <a href="https://github.com/MatsuriDayo/nekoray/releases">NekoRay</a><br><br>
         <a href="https://github.com/hiddify/hiddify-app/releases">Hiddify</a>
@@ -213,6 +208,9 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 </table>
 
 ---
+
+## ⭐ Contributing
+Feel free to submit a Pull Request to add new clients or update links!
 
 ## ⚠️ Disclaimer
 This list is for informational purposes only. Please ensure you comply with local laws and service terms when using proxy/VPN applications.
