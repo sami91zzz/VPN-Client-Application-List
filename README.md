@@ -7,55 +7,210 @@ A curated collection of high-quality VPN/Proxy client applications organized by 
 ## 📱 Android
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/120px-Android_robot.svg.png" width="40" height="40" alt="Android">
 
-| Core         | Applications |
-|--------------|--------------|
-| **Mihomo**   | [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)<br>[FlClash](https://github.com/chen08209/FlClash/releases)<br>[Clash Mi](https://github.com/KaringX/clashmi/releases) |
-| **X-Ray**    | [Happ](https://github.com/Happ-proxy/happ-android/releases)<br>[V2rayNG](https://github.com/2dust/v2rayNG/releases)<br>[Exclave](https://github.com/dyhkwong/Exclave/releases)<br>[V2Box](https://play.google.com/store/search?q=V2Box&c=apps&hl=en)<br>[Shadowrocket](https://play.google.com/store/apps/details?id=com.v2cross.proxy&hl=en-ID)<br>[SimpleXRay](https://github.com/lhear/SimpleXray/releases)<br>[ZedSecure VPN](https://github.com/CluvexStudio/ZedSecure/releases) |
-| **Sing-box** | [sing-box](https://github.com/SagerNet/sing-box/releases)<br>[Husi](https://github.com/xchacha20-poly1305/husi/releases)<br>[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)<br>[Karing](https://github.com/KaringX/karing/releases)<br>[Hiddify](https://github.com/hiddify/hiddify-app/releases) |
+<table>
+  <thead>
+    <tr>
+      <th width="120">Core</th>
+      <th>Applications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mihomo</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases">Clash Meta for Android</a><br><br>
+        <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
+        <a href="https://github.com/KaringX/clashmi/releases">Clash Mi</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>X-Ray</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/Happ-proxy/happ-android/releases">Happ</a><br><br>
+        <a href="https://github.com/2dust/v2rayNG/releases">V2rayNG</a><br><br>
+        <a href="https://github.com/dyhkwong/Exclave/releases">Exclave</a><br><br>
+        <a href="https://play.google.com/store/search?q=V2Box&c=apps&hl=en">V2Box</a><br><br>
+        <a href="https://play.google.com/store/apps/details?id=com.v2cross.proxy&hl=en-ID">Shadowrocket</a><br><br>
+        <a href="https://github.com/lhear/SimpleXray/releases">SimpleXRay</a><br><br>
+        <a href="https://github.com/CluvexStudio/ZedSecure/releases">ZedSecure VPN</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sing-box</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/SagerNet/sing-box/releases">sing-box</a><br><br>
+        <a href="https://github.com/xchacha20-poly1305/husi/releases">Husi</a><br><br>
+        <a href="https://github.com/MatsuriDayo/NekoBoxForAndroid/releases">NekoBox</a><br><br>
+        <a href="https://github.com/KaringX/karing/releases">Karing</a><br><br>
+        <a href="https://github.com/hiddify/hiddify-app/releases">Hiddify</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🪟 Windows
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2021.svg/120px-Windows_logo_-_2021.svg.png" width="40" height="40" alt="Windows">
 
-| Core         | Applications |
-|--------------|--------------|
-| **Mihomo**   | [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>[FlClash](https://github.com/chen08209/FlClash/releases)<br>[mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases) |
-| **X-Ray**    | [V2rayN](https://github.com/2dust/v2rayN/releases)<br>[Happ](https://github.com/Happ-proxy) |
-| **Sing-box** | [Karing](https://github.com/KaringX/karing/releases)<br>[NekoRay](https://github.com/throneproj/Throne/releases)<br>[Hiddify](https://github.com/hiddify/hiddify-app/releases) |
+<table>
+  <thead>
+    <tr>
+      <th width="120">Core</th>
+      <th>Applications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mihomo</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases">Clash Verge</a><br><br>
+        <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
+        <a href="https://github.com/mihomo-party-org/mihomo-party/releases">mihomo-party</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>X-Ray</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/2dust/v2rayN/releases">V2rayN</a><br><br>
+        <a href="https://github.com/Happ-proxy">Happ</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sing-box</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/KaringX/karing/releases">Karing</a><br><br>
+        <a href="https://github.com/throneproj/Throne/releases">NekoRay</a><br><br>
+        <a href="https://github.com/hiddify/hiddify-app/releases">Hiddify</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 📱 iOS
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="iOS">
 
-| Core         | Applications |
-|--------------|--------------|
-| **Mihomo**   | [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968) |
-| **X-Ray**    | [Happ](https://apps.apple.com/kw/app/happ-proxy-utility/id6504287215)<br>[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)<br>[V2rayTun](https://apps.apple.com/us/app/v2raytun/id6476628951)<br>[V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)<br>[Shadowrocket](https://apps.apple.com/ca/app/shadowrocket/id932747118)<br>[Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)<br>[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)<br>[Surge 5](https://apps.apple.com/us/app/surge-5/id1442620678) |
-| **Sing-box** | [sing-box](https://apps.apple.com/us/app/sing-box-vt/id6673731168)<br>[Hiddify](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)<br>[Karing](https://apps.apple.com/us/app/karing/id6472431552) |
+<table>
+  <thead>
+    <tr>
+      <th width="120">Core</th>
+      <th>Applications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mihomo</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://apps.apple.com/us/app/clash-mi/id6744321968">Clash Mi</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>X-Ray</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://apps.apple.com/kw/app/happ-proxy-utility/id6504287215">Happ</a><br><br>
+        <a href="https://apps.apple.com/us/app/streisand/id6450534064">Streisand</a><br><br>
+        <a href="https://apps.apple.com/us/app/v2raytun/id6476628951">V2rayTun</a><br><br>
+        <a href="https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690">V2Box</a><br><br>
+        <a href="https://apps.apple.com/ca/app/shadowrocket/id932747118">Shadowrocket</a><br><br>
+        <a href="https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349">Stash</a><br><br>
+        <a href="https://apps.apple.com/us/app/quantumult-x/id1443988620">Quantumult X</a><br><br>
+        <a href="https://apps.apple.com/us/app/surge-5/id1442620678">Surge 5</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sing-box</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://apps.apple.com/us/app/sing-box-vt/id6673731168">sing-box</a><br><br>
+        <a href="https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532">Hiddify</a><br><br>
+        <a href="https://apps.apple.com/us/app/karing/id6472431552">Karing</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 💻 macOS
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="macOS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/120px-Apple_logo_black.svg.png" width="35" height="40" alt="iOS">
 
-| Core         | Applications |
-|--------------|--------------|
-| **Mihomo**   | [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>[FlClash](https://github.com/chen08209/FlClash/releases)<br>[mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases) |
-| **X-Ray**    | [V2rayN](https://github.com/2dust/v2rayN/releases)<br>[Happ](https://apps.apple.com/kw/app/happ-proxy-utility/id6504287215)<br>[Streisand](https://apps.apple.com/us/app/streisand/id6450534064)<br>[V2rayTun](https://apps.apple.com/us/app/v2raytun/id6476628951)<br>[V2Box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)<br>[Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| **Sing-box** | [sing-box](https://apps.apple.com/us/app/sing-box-vt/id6673731168)<br>[Karing](https://apps.apple.com/us/app/karing/id6472431552)<br>[NekoRay](https://github.com/throneproj/Throne/releases)<br>[Hiddify](https://github.com/hiddify/hiddify-app/releases) |
+<table>
+  <thead>
+    <tr>
+      <th width="120">Core</th>
+      <th>Applications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mihomo</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases">Clash Verge</a><br><br>
+        <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
+        <a href="https://github.com/mihomo-party-org/mihomo-party/releases">mihomo-party</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>X-Ray</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/2dust/v2rayN/releases">V2rayN</a><br><br>
+        <a href="https://apps.apple.com/kw/app/happ-proxy-utility/id6504287215">Happ</a><br><br>
+        <a href="https://apps.apple.com/us/app/streisand/id6450534064">Streisand</a><br><br>
+        <a href="https://apps.apple.com/us/app/v2raytun/id6476628951">V2rayTun</a><br><br>
+        <a href="https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690">V2Box</a><br><br>
+        <a href="https://apps.apple.com/us/app/quantumult-x/id1443988620">Quantumult X</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sing-box</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://apps.apple.com/us/app/sing-box-vt/id6673731168">sing-box</a><br><br>
+        <a href="https://apps.apple.com/us/app/karing/id6472431552">Karing</a><br><br>
+        <a href="https://github.com/throneproj/Throne/releases">NekoRay</a><br><br>
+        <a href="https://github.com/hiddify/hiddify-app/releases">Hiddify</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🐧 Linux
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png" width="40" height="40" alt="Linux">
 
-| Core         | Applications |
-|--------------|--------------|
-| **Mihomo**   | [FlClash](https://github.com/chen08209/FlClash/releases)<br>[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)<br>[mihomo-party](https://github.com/mihomo-party-org/mihomo-party/releases) |
-| **X-Ray**    | [V2rayN](https://github.com/2dust/v2rayN/releases) |
-| **Sing-box** | [NekoRay](https://github.com/throneproj/Throne/releases)<br>[NekoRay](https://github.com/MatsuriDayo/nekoray/releases)<br>[Hiddify](https://github.com/hiddify/hiddify-app/releases) |
+<table>
+  <thead>
+    <tr>
+      <th width="120">Core</th>
+      <th>Applications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mihomo</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/chen08209/FlClash/releases">FlClash</a><br><br>
+        <a href="https://github.com/clash-verge-rev/clash-verge-rev/releases">Clash Verge</a><br><br>
+        <a href="https://github.com/mihomo-party-org/mihomo-party/releases">mihomo-party</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>X-Ray</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/2dust/v2rayN/releases">V2rayN</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sing-box</strong></td>
+      <td style="padding: 12px 0;">
+        <a href="https://github.com/throneproj/Throne/releases">NekoRay</a><br><br>
+        <a href="https://github.com/MatsuriDayo/nekoray/releases">NekoRay</a><br><br>
+        <a href="https://github.com/hiddify/hiddify-app/releases">Hiddify</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
